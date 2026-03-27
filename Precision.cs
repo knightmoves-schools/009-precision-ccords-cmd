@@ -1,6 +1,7 @@
 ﻿namespace knightmoves;
 public class Precision
 {
-    // Add your code here
+    public int MaxInteger = 2147483647;
+    public int DecimalProduct = 2.53468 * 5.75956733;
     
 }
